@@ -1,0 +1,40 @@
+body {
+  background-color:WHITE;
+  font-family: 'Ubuntu', sans-serif;
+}
+.container {
+  margin-top: 50px;
+}
+
+.jumbotron {
+  background-color: rgb(254,237,201);
+  box-shadow: 2px 2px 3px rgba(0,0,0,0.4);
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+div#image {
+    height: 500px;
+    width: 100%;
+    background-image: url(https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/14371137/0756447001460505578_filepicker.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center 170px;
+}
+
+p{
+  margin-left: 1em;
+  margin-right: 1em;
+}
+.blockquote {
+  border-left: 5px solid #552582;
+  padding-left: 1em;
+}
